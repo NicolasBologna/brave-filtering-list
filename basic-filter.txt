@@ -11,3 +11,22 @@ www.facebook.com##.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl5
 www.facebook.com##.x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xa49m3k.xqeqjp1.x2hbi6w.x13fuv20.xu3j5b3.x1q0q8m5.x26u7qi.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.x1ypdohk.xdl72j9.x2lah0s.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.x2lwn1j.xeuugli.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1o1ewxj.x3x9cwd.x1e5q0jg.x13rtm0m.x1q0g3np.x87ps6o.x1lku1pv.x1rg5ohu.x1a2a7pz.x1pdlv7q
 www.facebook.com##.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > .xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:nth-of-type(1) > div.x1y1aw1k:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.x1n2onr6:nth-of-type(1) > .x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xjkvuk6.x1cnzs8
 www.facebook.com##.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x1xzczws.x7wzq59.xxzkxad.x9e5oc1 > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > .xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:nth-of-type(1)
+www.reddit.com##.grid-container.theme-rpl.grid.flex-nav-expanded
+www.infobae.com##.player-ctn
+www.infobae.com##.width_full
+www.infobae.com##.sectionnav-container
+www.infobae.com##.mhh-nav-container
+www.infobae.com##.mhh-site-logo
+www.infobae.com##div.exchange-dolar:nth-of-type(3) > .exchange-dolar-source-text
+www.infobae.com##.span-rail
+www.infobae.com##.streaming-player-ctn.v2
+www.infobae.com##.slider-feed
+www.infobae.com##div.sharebar-container.display_flex:nth-of-type(1) > .sharebar-buttons-container.display_flex
+www.infobae.com##.display_flex.flex_column.latest-feed-container
+
+www.infobae.com##.body-share-note
+www.infobae.com##.display_grid.footer-menu
+www.infobae.com##.footer-ctn
+www.infobae.com##.display_flex.align_items_center.article-tags-headline
+www.infobae.com##.display_flex.justify_space_between.article-section-ctn
+www.infobae.com##.most-read
